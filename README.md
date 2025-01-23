@@ -1,5 +1,3 @@
-# Python-Programs
-
 # Distance Calculator
 
 A simple Python program to calculate the distance between two points in a 2D Cartesian coordinate system.
