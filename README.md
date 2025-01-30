@@ -20,6 +20,17 @@ A simple Python program that adds two numbers provided by the user.
 2. Enter the second number.
 3. The program will display the sum of the two numbers.
 
+# Even or Odd Checker
+
+A simple Python script to determine whether a given number is even or odd.
+
+## Steps to Check Even or Odd
+
+1.⁠ ⁠The program prompts the user to enter a number.
+2.⁠ ⁠It checks if the number is divisible by 2.
+3.⁠ ⁠If divisible, it prints "Even"; otherwise, it prints "Odd".
+
+
 ## How to Run
 
 1. Download the Python script.
