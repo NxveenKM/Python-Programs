@@ -30,6 +30,14 @@ A simple Python script to determine whether a given number is even or odd.
 2.⁠ ⁠It checks if the number is divisible by 2.
 3.⁠ ⁠If divisible, it prints "Even"; otherwise, it prints "Odd".
 
+# Decimal Equivalents Printer
+
+This simple Python script prints the decimal equivalents of fractions from 1/1 to 1/10.
+
+## How It Works
+•⁠  ⁠Uses a ⁠ for ⁠ loop to iterate from 1 to 10.
+•⁠  ⁠Prints the fraction and its decimal value.
+
 
 ## How to Run
 
