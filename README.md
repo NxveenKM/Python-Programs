@@ -39,9 +39,9 @@ This simple Python script prints the decimal equivalents of fractions from 1/1 t
 •⁠  ⁠Prints the fraction and its decimal value.
 
 
-## - How to Run
+# How to Run 
 
 1. Download the Python script.
 2. Open a terminal and navigate to the directory containing the script.
-3. Run the program and follow the prompts to enter two numbers.
+3. Run the program and follow the prompts.
 
