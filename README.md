@@ -58,6 +58,15 @@ A simple Python program that demonstrates various operations on a list of fruits
 6. The program loops through the list and prints each fruit.
 
 
+# 8. Tuple Operations Demonstration
+A basic Python program that demonstrates the creation and usage of a tuple.
+## Steps to Demonstrate a Tuple
+1. A tuple of fruits is created.
+2. The program prints the entire tuple.
+3. The first and last elements of the tuple are accessed and printed.
+4. The program loops through the tuple and prints each fruit.
+
+
 # How to Run 
 1. Download the Python script.
 2. Open a terminal and navigate to the directory containing the script.
