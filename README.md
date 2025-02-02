@@ -43,6 +43,16 @@ This simple Python script prints the decimal equivalents of fractions from 1/1 t
 2. Prints the fraction and its decimal value.⁠
 
 
+# 5. Square Calculator Program
+
+A simple Python program that calculates and displays the square of each number in a predefined list.
+
+## Steps to Calculate Squares
+1. The program defines a list of numbers.
+2. It uses a `for` loop to iterate over each number in the list.
+3. For each number, it calculates the square and prints the result.
+
+
 # 6. Countdown Program
 
 A simple Python program to count down from a user-defined number to zero.
