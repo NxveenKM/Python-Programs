@@ -47,6 +47,17 @@ A simple Python program to count down from a user-defined number to zero.
 3. A completion message will be displayed after the countdown finishes.
 
 
+# 7. List Operations Demonstration
+A simple Python program that demonstrates various operations on a list of fruits.
+## Steps to Demonstrate List Operations
+1. A list of fruits is created.
+2. The program prints the original list of fruits.
+3. A new fruit is added to the list.
+4. A fruit is removed from the list.
+5. The first fruit in the list is accessed and printed.
+6. The program loops through the list and prints each fruit.
+
+
 # How to Run 
 1. Download the Python script.
 2. Open a terminal and navigate to the directory containing the script.
