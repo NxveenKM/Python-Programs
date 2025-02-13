@@ -18,3 +18,6 @@ def main():
     
     # Output the result
     print(f"The distance between the points ({x1}, {y1}) and ({x2}, {y2}) is: {distance}")
+
+if __name__ == "__main__":
+    main()
